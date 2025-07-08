@@ -51,7 +51,6 @@
 - **Message Queue**: RabbitMQ
 - **Containerization**: Docker, Docker Hub
 - **Orchestration**: Kubernetes (GKE)
-- **DevOps**: GitHub Actions, Secrets, Health Probes
 
 
 ## 🔁 마이크로서비스 통신 구조
